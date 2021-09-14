@@ -11,10 +11,10 @@ This repository is developed for the following purposes:
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: User Guide
 
-   ../guide/introduction
-   ../guide/installation
-   ../guide/experiment
-   ../guide/models
+   guide/introduction
+   guide/installation
+   guide/experiment
+   guide/models
